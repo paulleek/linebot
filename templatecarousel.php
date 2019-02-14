@@ -32,7 +32,7 @@ $json_str = file_get_contents('php://input'); //接收request的body
 				{
 				  "type": "uri",
 				  "label": "動作 1",
-				  "uri": "https://tw.yahoo.com?user_id=".$sender_userid"
+				  "uri": "https://tw.yahoo.com?user_id=".$sender_userid
 				}
 			  ]
 			}
