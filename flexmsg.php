@@ -18,7 +18,7 @@
 		  "aspectMode": "cover",
 		  "action": {
 			"type": "uri",
-			"uri": "http://www.yahoo.com?user_id=".$sender_userid
+			"uri": "http://www.yahoo.com?user_id="
 		  }
 		},
 		"body": {
