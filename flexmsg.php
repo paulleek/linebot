@@ -18,7 +18,7 @@
 		  "aspectMode": "cover",
 		  "action": {
 			"type": "uri",
-			"uri": "http://linecorp.com/"
+			"uri": "http://www.yahoo.com?user_id=".$sender_userid
 		  }
 		},
 		"body": {
