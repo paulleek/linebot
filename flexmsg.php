@@ -18,7 +18,7 @@
 		  "aspectMode": "cover",
 		  "action": {
 			"type": "uri",
-			"uri": "http://test.com?user_id=".$sender_userid
+			"uri": "http://test.com?user_id='.$sender_userid.'"
 		  }
 		},
 		"body": {
